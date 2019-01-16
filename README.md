@@ -2,7 +2,7 @@ Birth Rates for Belgian Municipalities - A Short Analysis of the Differences
 -----------------------
 
 This project will get a glimpse of the Belgium natality data and try to find the reasons for differences between municipalities<br>
-If you only wish to view the final result, you can open the [Jupyter notebook](https://notebooks.azure.com/alexbraila/projects/birth-rates-for-belgian-munici/html/Birth%20Rates%20for%20Belgian%20Municipalities%20-%20A%20Short%20Analysis%20of%20the%20Differences.ipynb), otherwise, you can install everything locally by following the below instructions
+If you only wish to view the final result, you can open the [Jupyter notebook](https://github.com/alexbraila/belgian-birth-rates/blob/master/Birth%20Rates%20for%20Belgian%20Municipalities%20-%20A%20Short%20Analysis%20of%20the%20Differences.ipynb), otherwise, you can install everything locally by following the below instructions
 
 Installation
 ----------------------
